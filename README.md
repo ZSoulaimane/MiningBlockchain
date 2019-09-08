@@ -1,5 +1,5 @@
 # MiningBlockchain
 
-* open CMD from CTRL+R then CMD
-* go to the MiningBlockchain Folder using cd desktop/MiningBlockchain
-* then enter node average-work.js to start mining the Block
+* Open CMD using CTRL+R then CMD
+* Go to the MiningBlockchain Folder using cd desktop/MiningBlockchain
+* Then enter node average-work.js to start mining the Block
